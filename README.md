@@ -4,7 +4,7 @@
 - 👀 I’m interested in Developer tools,Systems Design, Web Development and High Data Intensive Applications 
 - 🌱 I’m currently learning about Distributed Systems and Data Intensive Applications 
 
-- 📫 <a href="https://twitter.com/fanatic75">Connect with me on Twitter!</a>
+
 
 <!--
 **fanatic75/fanatic75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

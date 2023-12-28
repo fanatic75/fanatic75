@@ -1,9 +1,6 @@
  
 
 - 👋 Hi, I’m Prateek Banga
-- 👀 I’m interested in Developer tools,Systems Design, Web Development and High Data Intensive Applications 
-- 🌱 I’m currently learning about Distributed Systems and Data Intensive Applications 
-
 
 
 <!--
